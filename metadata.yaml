@@ -1,0 +1,29 @@
+---
+# See this for all fields and descriptions
+# https://pandoc.org/MANUAL.html#epub-metadata
+title:
+  - type: main
+    text: Tuyển tập truyện ngắn Nam Cao (Trước cách mạng)
+  # - type: subtitle
+  #   text: <SUBTITLE>
+creator:
+  - role: author
+    text: Nam Cao
+  # - role: editor
+  #   text: <NAME>
+# description: <DESCRIPTION OF YOUR BOOK.>
+# cover-image: <COVER-IMAGE-FILE>
+date: 2025-12-32 # "-MM-DD" is optional
+# lang: en
+# rights: <COPYRIGHT NOTICE>
+css: minimal.css
+# belongs-to-collection: <COLLECTION-NAME>
+# group-position: <NUMBER-IN-COLLECTION>
+# page-progression-direction: <`ltr` OR `rtl`>
+# identifier:
+#   - scheme: UUID
+#     text: 7f3cfa67-882f-4340-a895-211dc3361a09
+#   - scheme: ISBN-13
+#     text: 978-3-16-148410-0
+...
+
