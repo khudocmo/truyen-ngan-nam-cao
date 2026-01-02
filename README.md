@@ -1,5 +1,7 @@
 # Truyện ngắn Nam Cao
 
+Một dự án tổng hợp của [Khu đọc mở](https://khudocmo.github.io/)
+
 Danh sách truyện ngắn của Nam Cao, sẽ được phân ra làm hai phần: **Trước cách mạng** và **Sau cách mạng**.
 
 ## Tải xuống
