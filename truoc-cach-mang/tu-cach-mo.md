@@ -1,4 +1,4 @@
-# TƯ CÁCH MÕ
+# Tư cách mõ
 
 Bây giờ thì hắn đã thành mõ hẳn rồi. Một thằng mõ đủ tư cách mõ, chẳng chịu kém cạnh những anh mõ chính tông một tí gì: cũng đê tiện, cũng lầy là, cũng tham ăn. Hơi thấy nhà nào lách cách mâm bát là hắn đến ngay. Hắn ngồi tít ngoài xa, ngay chỗ cổng vào. Người ta bưng cho một mình hắn một mâm. Hắn trơ tráo ngồi ăn. Ăn xong, còn thừa bao nhiêu, hộn tất cả vào, lấy lá đùm thành một đùm to bằng cái vế đùi, để đem về cho vợ, cho con. Có khi hắn còn xán đến những chỗ người ta thái thịt, dỡ xôi, lấy cắp hoặc xin thêm một đùm to nữa. Hắn bỏ cả cái đùm vào cái tay nải rất to, lần đi ăn cỗ nào hắn cũng đem theo. Thế rồi một tay xách tay nải, một tay chống ba toong, hắn ra về, mặt đỏ gay vì rượu và trầu, đầy vẻ phè phỡn và hể hả....Mùa đến, hắn vác một cái đòn càn có quấn mấy sợi thừng ở một đầu, đi hết ruộng nọ đến ruộng kia:
 

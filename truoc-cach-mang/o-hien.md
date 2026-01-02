@@ -1,4 +1,4 @@
-# Ở HIỀN
+# Ở hiền
 
 Nhu ở hiền ngay từ ngày còn bé. Khi chưa đẻ nó, mẹ nó đã có một đứa con trai được hai năm. Thằng bé anh này đã được khá nhiều răng và biết ăn cơm. Nhưng nó còn quấy suốt ngày, chẳng mấy lúc chịu để mẹ rời ra. Mà dù nó đã ăn cơm no đến căng bụng mặc lòng, lúc trông thấy mẹ vẫn còn đòi bú; không cho nó bú nó lăn ra đất, giãy giụa, xé quần, xé áo, cào mặt ra mà khóc; chẳng khác gì người ăn vạ. Đêm đến, nó mới lại càng làm khổ. Nó nhất định cứ phải nằm bên mẹ suốt đêm, ngoài mẹ ra, không chịu ngủ với ai. Nó bám lấy mẹ chằng chằng. Thức giấc dậy lúc nào là nó lại vơ lấy ngay cái vú ấn vào mồm, dù chẳng còn một giọt sữa nào. Không còn sữa nó cũng day. Nó day cái vú beo như một con chó day bối ghẻ. Rứt bú ra là nó khóc...Vì vậy cho nên lúc chửa Nhu thì mẹ Nhu lo lắm. Bà sẽ liệu thế nào với hai đứa trẻ, nếu cả hai cùng đòi mẹ? Nếu đứa sau cũng bẳn tính như đứa trước thì có lẽ chúng làm tội bà đến chết...
 

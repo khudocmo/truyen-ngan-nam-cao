@@ -1,4 +1,20 @@
-## Truyện ngắn
+# Truyện ngắn Nam Cao
+
+Danh sách truyện ngắn của Nam Cao, sẽ được phân ra làm hai phần: **Trước cách mạng** và **Sau cách mạng**.
+
+## Tải xuống
+
+### EPUB
+
+- [Truyện ngắn Nam Cao - Trước cách mạng](files/truyen-ngan-nam-cao-truoc-cach-mang.epub)
+- [Truyện ngắn Nam Cao - Sau cách mạng](files/truyen-ngan-nam-cao-sau-cach-mang.epub)
+
+### AZW3
+
+- [Truyện ngắn Nam Cao - Trước cách mạng](files/truyen-ngan-nam-cao-truoc-cach-mang.azw3)
+- [Truyện ngắn Nam Cao - Sau cách mạng](files/truyen-ngan-nam-cao-sau-cach-mang.azw3)
+
+## Đọc trực tuyến
 
 ### Trước cách mạng
 
@@ -65,3 +81,6 @@
 - [Vui dân công](sau-cach-mang/vui-dan-cong.md)
 - [Vài nét ghi qua vùng vừa giải phóng](sau-cach-mang/vai-net-ghi-qua-vung-vua-giai-phong.md)
 
+## Build các thứ
+
+Chỉnh sửa metadata trong 2 tệp `Makefile` và `metadata.yaml` rồi chạy lệnh `make` ở thư mục này.

@@ -1,4 +1,4 @@
-# QUÁI DỊ
+# Quái dị
 
 Năm ấy mất mùa. Lúa làng xấu lắm. Chúng tôi gặt ruộng nhà xong, mới đi gặt thuê được mỗi người vài ba buổi mà lúa làng đã vãn. Chúng tôi bàn nhau ra Đông gặt.
 

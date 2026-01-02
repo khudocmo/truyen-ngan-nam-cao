@@ -1,4 +1,4 @@
-# MUA DANH
+# Mua danh
 
 Nhà Bịch được một sào trầu tốt. Cái tin ấy đồn đi. Dân làng kháo nhau rằng hắn có tiền. Mà có tiền là phải. Chỉ tính ra cũng biết. Trầu làng năm nay chết rất nhiều. Do trận bão vừa qua. Có những cái nát như tương; chẳng khác gì có người giật đổ xuống rồi lấy chân mà dận; người ta dỡ róng trúc, cắt gốc đi, rồi trồng thế vào đấy vài trăm con rau diếp; gỡ được đồng nào hay đồng ấy. Có những cái khác được dựng lên; nhưng dựng lên thì cũng chết, bởi gió đã lay dữ quá, làm đứt rễ. Những cái còn sống sót không có lá: lá cũ bị vò tan; lá mới gặp vụ rét này không ra được; có ra được thì cũng chột. Cái trầu của Bịch không thế. Âu cũng là trời thương riêng hắn. Năm nay, giá hắn không được cái trầu thì chết đói. Vườn chưa được ba sào. Nhà với sân đã chiếm ngót một sào. Chỉ còn hơn một sào trồng trọt. Nhà những sáu miệng ăn: hai vợ chồng với bốn đứa con. Bốn đứa lau nhau, cũng chưa làm gì được cả. Sợi vé không có, khung cửi để ba, bốn gia đình nhện đến chăng tơ.
 

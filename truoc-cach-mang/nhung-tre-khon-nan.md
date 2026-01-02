@@ -1,5 +1,7 @@
 # Những trẻ khốn nạn
 
+## I
+
 Thằng Cu chán hỏi chuyện rồi. Nó nằm im. Mắt nó gà gà. Mồm nó ngáp luôn. Mỗi lần ngáp, mặt nó hơi đỏ lên một chút và đôi mắt loang-loáng ướt. Tích quắc mắt, chủm đôi môi ra thành mỏ, làm cái bộ điệu của một người dọa nạt...
 
 — Ái chà! chú lại chực khóc đấy phải không? Giờ hồn đấy! Tôi đánh cho bây giờ.
@@ -264,8 +266,7 @@ Về nhà nấu quả mơ chua trên rừng.
 Em ơi, chua ngọt đã từng,  
 Rừng xanh, nước bạc ta đừng quên nhau._
 
-
-II
+## II
 
 Bà lý là một bà góa giầu vào bậc nhất, nhì ở trong làng. Nhưng về đường con cái, giời bắt tội bà vất vả. Bà đẻ luôn sáu bận mà không nuôi được. Cầu cúng mãi đến năm ngót bốn mươi mới được một mụn con trai. Rồi ông lý chết. Thành thử trước sau, bà vẫn chỉ còn một nó. Tên nó là thằng Ấu. Năm nay nó độ lên sáu hay lên bảy, nghĩa là sàn sàn tuổi Tích. Bà chiều lắm. Bởi là con cầu-tự, nên từ bà trở xuống, cả nhà đều phải gọi là cậu. Cậu muốn gì là phải có. Kẻ ăn người ở, đứa nào hơi trái ý cậu, để cho cậu hờn, cậu khóc. thế nào cũng được lệch mồ lệch mả. Bà chửi cho ngập mặt.
 

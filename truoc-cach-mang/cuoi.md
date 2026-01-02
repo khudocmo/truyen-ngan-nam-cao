@@ -1,4 +1,4 @@
-# CƯỜI
+# Cười
 
 Quả như lời hắn đoán, thằng bé khóc chán rồi lặng thật. Có lẽ bây giờ thì nó nhọc quá, đã ngủ say như chết, không khí trở nên thư thái. Chỉ còn mấy tiếng võng đưa ken két khoan thai và đều đặn như tiếng tích tắc của một chiếc đồng hồ thật to...
 
