@@ -1,24 +1,37 @@
-# Truyện ngắn Nam Cao
+# Tuyển tập truyện ngắn Nam Cao (Trang dự án số hóa sách)
 
-Một dự án tổng hợp của [Khu đọc mở](https://khudocmo.github.io/)
+[Truy cập Trang dự án số hóa này sách trên Github](https://github.com/khudocmo/truyen-ngan-nam-cao)
+
+## Tuyển tập
+
+Phần này sẽ không chia ra làm hai phần "Trước cách mạng" và "Sau cách mạng"
+
+### Tải xuống
+
+<a href="./files/truyen-ngan-nam-cao.epub"><img src="/assets/epub.png" alt="EPUB" width="50" /></a>
+<a href="./files/truyen-ngan-nam-cao.azw3"><img src="/assets/azw3.png" alt="AZW3" width="50" /></a>
+<a href="./files/truyen-ngan-nam-cao.mobi"><img src="/assets/mobi.png" alt="MOBI" width="50" /></a>
+<a href="./files/truyen-ngan-nam-cao.txt"><img src="/assets/txt.png" alt="TXT" width="50" /></a>
+
+<p>hoặc <a href="./files/truyen-ngan-nam-cao.html">Đọc trực tuyến</a>
+
+## "Trước cách mạng" và "Sau cách mạng"
 
 Danh sách truyện ngắn của Nam Cao, sẽ được phân ra làm hai phần: **Trước cách mạng** và **Sau cách mạng**.
 
-## Tải xuống
-
 ### EPUB
 
-- [Truyện ngắn Nam Cao - Trước cách mạng](files/truyen-ngan-nam-cao-truoc-cach-mang.epub)
-- [Truyện ngắn Nam Cao - Sau cách mạng](files/truyen-ngan-nam-cao-sau-cach-mang.epub)
+- [Truyện ngắn Nam Cao - Trước cách mạng](./files/truyen-ngan-nam-cao-truoc-cach-mang.epub)
+- [Truyện ngắn Nam Cao - Sau cách mạng](./files/truyen-ngan-nam-cao-sau-cach-mang.epub)
 
 ### AZW3
 
-- [Truyện ngắn Nam Cao - Trước cách mạng](files/truyen-ngan-nam-cao-truoc-cach-mang.azw3)
-- [Truyện ngắn Nam Cao - Sau cách mạng](files/truyen-ngan-nam-cao-sau-cach-mang.azw3)
+- [Truyện ngắn Nam Cao - Trước cách mạng](./files/truyen-ngan-nam-cao-truoc-cach-mang.azw3)
+- [Truyện ngắn Nam Cao - Sau cách mạng](./files/truyen-ngan-nam-cao-sau-cach-mang.azw3)
 
-## Đọc trực tuyến
+### Đọc trực tuyến
 
-### Trước cách mạng
+#### Trước cách mạng
 
 - [Ba người bạn](truoc-cach-mang/ba-nguoi-ban.md)
 - [Đón khách](truoc-cach-mang/don-khach.md)
@@ -64,7 +77,7 @@ Danh sách truyện ngắn của Nam Cao, sẽ được phân ra làm hai phần
 - [Rình trộm](truoc-cach-mang/rinh-trom.md)
 - [Ở hiền](truoc-cach-mang/o-hien.md) (1943)
 
-### Sau cách mạng
+#### Sau cách mạng
 
 - [Mò sâm banh](sau-cach-mang/mo-sam-banh.md) (1945)
 - [Năm anh hàng thịt](sau-cach-mang/nam-anh-hang-thit.md) (1945)
@@ -82,7 +95,3 @@ Danh sách truyện ngắn của Nam Cao, sẽ được phân ra làm hai phần
 - [Bốn cây số cách một căn cứ địch](sau-cach-mang/bon-cay-so-cach-mot-can-cu-dich.md)
 - [Vui dân công](sau-cach-mang/vui-dan-cong.md)
 - [Vài nét ghi qua vùng vừa giải phóng](sau-cach-mang/vai-net-ghi-qua-vung-vua-giai-phong.md)
-
-## Build các thứ
-
-Chỉnh sửa metadata trong 2 tệp `Makefile` và `metadata.yaml` rồi chạy lệnh `make` ở thư mục này.

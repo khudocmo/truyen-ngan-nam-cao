@@ -1,8 +1,7 @@
-**Ba người ban**  
-của **NAM-CAO**
-
+# Ba người bạn  
 
 **Sách HOA-MAI số 13**  
+
 **Cộng-Lực Hanoi xuất-bản — 0$10**
 
 Chỉ trông quang cảnh cửa lớp nhất A, học trò các lớp khác cũng đủ biết: hôm nay « các cậu ấy » có Récitation ngay giờ đầu...
