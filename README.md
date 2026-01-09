@@ -13,7 +13,8 @@ Phần này sẽ không chia ra làm hai phần "Trước cách mạng" và "Sau
 <a href="./files/truyen-ngan-nam-cao.mobi"><img src="/assets/mobi.png" alt="MOBI" width="50" /></a>
 <a href="./files/truyen-ngan-nam-cao.txt"><img src="/assets/txt.png" alt="TXT" width="50" /></a>
 
-<p>hoặc <a href="./files/truyen-ngan-nam-cao.html">Đọc trực tuyến</a>
+<p>hoặc <a href="./files/truyen-ngan-nam-cao.html">Đọc trực tuyến</a></p>
+
 
 ## "Trước cách mạng" và "Sau cách mạng"
 
